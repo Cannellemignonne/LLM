@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+.DS_Store
+data/
+datasets/
+*.pt
+*.bin
+*.ckpt
+*.onnx
+*.npy
+*.npz
+*.wav
+*.mp3
+*.flac
